@@ -8,7 +8,7 @@
 
 - 🌱 Estou aprendendo - I'm currently learning
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalvmiller&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalvmiller&layout=donut)](https://github.com/jalvmiller/github-readme-stats)
 
 ---
 ### Minhas habilidades - My Skills📌
