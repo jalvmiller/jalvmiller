@@ -8,7 +8,7 @@
 
 - 🌱 Estou aprendendo - I'm currently learning
     
-### Minhas habilidades📌 - My Skills📌
+### Minhas habilidades - My Skills📌
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
