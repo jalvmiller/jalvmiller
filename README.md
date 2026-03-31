@@ -7,7 +7,10 @@
 - 🔭 Estou trabalhando em - I’m currently working on
 
 - 🌱 Estou aprendendo - I'm currently learning
-    
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalvmiller&layout=compact)
+
+---
 ### Minhas habilidades - My Skills📌
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=openjdk&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
