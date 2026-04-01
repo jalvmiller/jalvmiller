@@ -18,7 +18,7 @@ Projeto pessoal com foco em desenvolvimento backend
 
 [![Top Langs](https://github-readme-stats-psi-topaz.vercel.app/api/top-langs/?username=jalvmiller&layout=donut)](https://github.com/jalvmiller/github-readme-stats)
 
----
+
 ### Minhas habilidades - My Skills📌
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=openjdk&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
