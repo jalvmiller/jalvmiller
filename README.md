@@ -6,6 +6,7 @@
 #### 🔭 Estou trabalhando em - *I’m currently working on*
 
 Projeto pessoal com foco em desenvolvimento backend
+
 *Personal project focused on backend development*
 
 #### 🌱 Estou aprendendo - *I'm currently learning*
