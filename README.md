@@ -1,7 +1,7 @@
 # Hi; hallo; olá!
 
 ## Sobre mim - *About Me*
- 🌍  **==EN-US; PT-BR==**
+ 🌍  **EN-US; PT-BR**
 
 #### 🔭 Estou trabalhando em - *I’m currently working on*
 
@@ -9,9 +9,9 @@ Projeto pessoal com foco em desenvolvimento backend
 *Personal project focused on backend development*
 
 #### 🌱 Estou aprendendo - *I'm currently learning*
-- // ==React==
-- // ==Tailwind CSS==
-- // ==Springboot==
+- // React
+- // Tailwind CSS
+- // Springboot
 
 ---
 
