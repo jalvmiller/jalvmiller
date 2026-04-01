@@ -1,14 +1,21 @@
 # Hi; hallo; olá!
 
-## Sobre mim - About Me
- 🌍 Languages: 
-    **EN-US; PT-BR**
+## Sobre mim - *About Me*
+ 🌍  **==EN-US; PT-BR==**
 
-- 🔭 Estou trabalhando em - I’m currently working on
+#### 🔭 Estou trabalhando em - *I’m currently working on*
 
-- 🌱 Estou aprendendo - I'm currently learning
+Projeto pessoal com foco em desenvolvimento backend
+*Personal project focused on backend development*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalvmiller&layout=donut)](https://github.com/jalvmiller/github-readme-stats)
+#### 🌱 Estou aprendendo - *I'm currently learning*
+- // ==React==
+- // ==Tailwind CSS==
+- // ==Springboot==
+
+---
+
+[![Top Langs](https://github-readme-stats-psi-topaz.vercel.app/api/top-langs/?username=jalvmiller&layout=donut)](https://github.com/jalvmiller/github-readme-stats)
 
 ---
 ### Minhas habilidades - My Skills📌
